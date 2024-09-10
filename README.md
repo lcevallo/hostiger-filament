@@ -67,3 +67,13 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## FilamentDaily
 https://www.youtube.com/@FilamentDaily/videos
+
+
+Pasos
+echo "# hostiger-filament" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/lcevallo/hostiger-filament.git
+git push -u origin main
