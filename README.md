@@ -67,7 +67,13 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## FilamentDaily
 https://www.youtube.com/@FilamentDaily/videos
+Para pdf Magic
+https://www.youtube.com/watch?v=a6pVPcUiQ9U
 
+
+php artisan storage:link
+APP_URL=http://127.0.0.1:8000
+FILESYSTEM_DISK=public
 
 Pasos
 echo "# hostiger-filament" >> README.md

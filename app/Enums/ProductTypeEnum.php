@@ -2,7 +2,7 @@
 
 namespace App\Enums;
 
-use Filament\Support\Enums\Enum;
+
 
 enum ProductTypeEnum: string
 {
